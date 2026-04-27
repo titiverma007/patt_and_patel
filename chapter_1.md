@@ -91,5 +91,14 @@ Examples of ISA
 - SPARC (Oracle)
 
 -----> The translation from a high level language to ISA of the computer on which the program will execute is called compiler. 
-The translation from assembely language of a computer to its ISA is done by an assembler. 
+The translation from assembely language of a computer to its ISA is done by an assembler.
+
+### 5. Microarchitecture
+The next step is the implementation of the ISA, referred to as its microarchitecture. 
+
+### 6. The Logic circuit
+The next step is to implement each element pf the microarchitecture out of simple logic circuits. 
+
+### 7. The devices
+Each basic logic circuit is implemented in accrodance with the requirements of the particular device technology used. 
 
